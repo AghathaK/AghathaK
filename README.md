@@ -15,7 +15,5 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   
-  ![Snake animation](https://github.com/AghathaK/AghathaK/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
